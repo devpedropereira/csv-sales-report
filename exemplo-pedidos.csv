@@ -1,0 +1,13 @@
+pedido_id,data,valor,cliente
+P001,2026-01-05,"1.250,00",Loja Aurora
+P002,2026-01-18,"750,00",Café Norte
+P003,2026-02-03,"900,00",Loja Aurora
+P004,2026-02-14,"1.100,00",Café Norte
+P005,2026-02-27,"500,00",Loja Aurora
+P006,2026-03-04,"1.400,00",Loja Aurora
+P007,2026-03-11,"800,00",Café Norte
+P008,2026-03-23,"1.200,00",Loja Aurora
+P009,2026-04-02,"600,00",Café Norte
+P010,2026-04-09,"1.500,00",Loja Aurora
+P011,2026-04-19,"1.100,00",Café Norte
+P012,2026-04-28,"800,00",Loja Aurora
